@@ -3,4 +3,7 @@ Repositori ini digunakan untuk menampung source code Kalkulasi Kredit tugas Topi
 # How To
 1. Clone Project
 2. Jalankan homepage.php untuk menampilkan interface input.
+# About 
+Nama : Hengky Surya Hanadi
+NPM : 2015730051
 
